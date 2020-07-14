@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import TodoList from './TodoList';
+import MemeList from './MemeList';
 
 function App() {
   return (
     <div className="App">
-      <TodoList />
+      <MemeList />
     </div>
   );
 }
